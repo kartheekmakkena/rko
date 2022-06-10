@@ -1,0 +1,5 @@
+git vertion - shows git hubs vertion 
+git commit - commits the changes 
+git clone     - clone the tepositary 
+git status - shows ststus of git
+git push - push the changes of git  repo
